@@ -1,0 +1,60 @@
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab03/ex1/server/bin/Debug/net6.0/server
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab03/ex1/server/bin/Debug/net6.0/server.deps.json
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab03/ex1/server/bin/Debug/net6.0/server.runtimeconfig.json
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab03/ex1/server/bin/Debug/net6.0/server.dll
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab03/ex1/server/bin/Debug/net6.0/server.pdb
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab03/ex1/server/obj/Debug/net6.0/server.csproj.AssemblyReference.cache
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab03/ex1/server/obj/Debug/net6.0/server.GeneratedMSBuildEditorConfig.editorconfig
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab03/ex1/server/obj/Debug/net6.0/server.AssemblyInfoInputs.cache
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab03/ex1/server/obj/Debug/net6.0/server.AssemblyInfo.cs
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab03/ex1/server/obj/Debug/net6.0/server.csproj.CoreCompileInputs.cache
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab03/ex1/server/obj/Debug/net6.0/server.dll
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab03/ex1/server/obj/Debug/net6.0/refint/server.dll
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab03/ex1/server/obj/Debug/net6.0/server.pdb
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab03/ex1/server/obj/Debug/net6.0/server.genruntimeconfig.cache
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab03/ex1/server/obj/Debug/net6.0/ref/server.dll
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab05/client_sever/server/bin/Debug/net6.0/server
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab05/client_sever/server/bin/Debug/net6.0/server.deps.json
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab05/client_sever/server/bin/Debug/net6.0/server.runtimeconfig.json
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab05/client_sever/server/bin/Debug/net6.0/server.dll
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab05/client_sever/server/bin/Debug/net6.0/server.pdb
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab05/client_sever/server/obj/Debug/net6.0/server.csproj.AssemblyReference.cache
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab05/client_sever/server/obj/Debug/net6.0/server.GeneratedMSBuildEditorConfig.editorconfig
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab05/client_sever/server/obj/Debug/net6.0/server.AssemblyInfoInputs.cache
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab05/client_sever/server/obj/Debug/net6.0/server.AssemblyInfo.cs
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab05/client_sever/server/obj/Debug/net6.0/server.csproj.CoreCompileInputs.cache
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab05/client_sever/server/obj/Debug/net6.0/server.dll
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab05/client_sever/server/obj/Debug/net6.0/refint/server.dll
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab05/client_sever/server/obj/Debug/net6.0/server.pdb
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab05/client_sever/server/obj/Debug/net6.0/server.genruntimeconfig.cache
+/home/xlobung/DATA/15_TEACHING/VTC/Network Programming/10. Network Programming Fundamentals/codes/lab05/client_sever/server/obj/Debug/net6.0/ref/server.dll
+E:\Elsa\VTC\gk\tcp\client_sever\server\bin\Debug\net6.0\server.exe
+E:\Elsa\VTC\gk\tcp\client_sever\server\bin\Debug\net6.0\server.deps.json
+E:\Elsa\VTC\gk\tcp\client_sever\server\bin\Debug\net6.0\server.runtimeconfig.json
+E:\Elsa\VTC\gk\tcp\client_sever\server\bin\Debug\net6.0\server.dll
+E:\Elsa\VTC\gk\tcp\client_sever\server\bin\Debug\net6.0\server.pdb
+E:\Elsa\VTC\gk\tcp\client_sever\server\obj\Debug\net6.0\server.csproj.AssemblyReference.cache
+E:\Elsa\VTC\gk\tcp\client_sever\server\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+E:\Elsa\VTC\gk\tcp\client_sever\server\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+E:\Elsa\VTC\gk\tcp\client_sever\server\obj\Debug\net6.0\server.AssemblyInfo.cs
+E:\Elsa\VTC\gk\tcp\client_sever\server\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+E:\Elsa\VTC\gk\tcp\client_sever\server\obj\Debug\net6.0\server.dll
+E:\Elsa\VTC\gk\tcp\client_sever\server\obj\Debug\net6.0\refint\server.dll
+E:\Elsa\VTC\gk\tcp\client_sever\server\obj\Debug\net6.0\server.pdb
+E:\Elsa\VTC\gk\tcp\client_sever\server\obj\Debug\net6.0\server.genruntimeconfig.cache
+E:\Elsa\VTC\gk\tcp\client_sever\server\obj\Debug\net6.0\ref\server.dll
+E:\Elsa\VTC\gk\Client_Server_AES\client_sever\server\bin\Debug\net6.0\server.exe
+E:\Elsa\VTC\gk\Client_Server_AES\client_sever\server\bin\Debug\net6.0\server.deps.json
+E:\Elsa\VTC\gk\Client_Server_AES\client_sever\server\bin\Debug\net6.0\server.runtimeconfig.json
+E:\Elsa\VTC\gk\Client_Server_AES\client_sever\server\bin\Debug\net6.0\server.dll
+E:\Elsa\VTC\gk\Client_Server_AES\client_sever\server\bin\Debug\net6.0\server.pdb
+E:\Elsa\VTC\gk\Client_Server_AES\client_sever\server\obj\Debug\net6.0\server.csproj.AssemblyReference.cache
+E:\Elsa\VTC\gk\Client_Server_AES\client_sever\server\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+E:\Elsa\VTC\gk\Client_Server_AES\client_sever\server\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+E:\Elsa\VTC\gk\Client_Server_AES\client_sever\server\obj\Debug\net6.0\server.AssemblyInfo.cs
+E:\Elsa\VTC\gk\Client_Server_AES\client_sever\server\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+E:\Elsa\VTC\gk\Client_Server_AES\client_sever\server\obj\Debug\net6.0\server.dll
+E:\Elsa\VTC\gk\Client_Server_AES\client_sever\server\obj\Debug\net6.0\refint\server.dll
+E:\Elsa\VTC\gk\Client_Server_AES\client_sever\server\obj\Debug\net6.0\server.pdb
+E:\Elsa\VTC\gk\Client_Server_AES\client_sever\server\obj\Debug\net6.0\server.genruntimeconfig.cache
+E:\Elsa\VTC\gk\Client_Server_AES\client_sever\server\obj\Debug\net6.0\ref\server.dll
